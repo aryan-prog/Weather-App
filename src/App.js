@@ -49,7 +49,7 @@ function App() {
   };
 
   let weatherImage=clear;
-  console.log(data.weather[0]?.description);
+  // console.log(data.weather[0]?.description);
   if(data.weather[0].description==='haze')
   weatherImage=mist;
   else if(data.weather[0]?.description?.includes('clouds'))
@@ -76,7 +76,7 @@ function App() {
             <img src={search} className="bx bx-search-alt-2" alt="serach-icon"></img>
           </button>
         </div>
-        <div className="weather">
+        { data.name && <div className="weather">
           <div className="main">
             <img src={weatherImage} alt="" className="weather-icon" />
             <h1 className="temp">{Math.round(fahrenheitToCelsius(data.main.temp))}°c</h1>
@@ -97,7 +97,7 @@ function App() {
           <p className="wind">{data.wind.speed} km/h</p>
           <p>Wind Speed</p>
         </div>
-        </div>
+        </div>}
       </div>
     </div>
   );
