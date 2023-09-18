@@ -16,6 +16,8 @@ The **Weather App** is a simple and intuitive web application that allows users 
 
 - **Humidity and Wind Speed:** Get additional details about humidity and wind speed to plan your day accordingly.
 
+- **Fully Responsive:** The website is designed to be fully responsive, ensuring an optimal viewing experience on various devices.
+
 ## Functions
 
 - **Search Weather:** Enter the name of a city in the search bar and click the search button to fetch and display the current weather conditions.
@@ -29,7 +31,7 @@ The **Weather App** is a simple and intuitive web application that allows users 
 Experience the Weather App and stay informed about the weather in your favorite cities!
 ## Features
 
-- **Fully Responsive:** The website is designed to be fully responsive, ensuring an optimal viewing experience on various devices.
+
 
 ## Tech Stack
 
