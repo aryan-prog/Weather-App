@@ -28,11 +28,7 @@ The **Weather App** is a simple and intuitive web application that allows users 
 
 - **User-friendly Interface:** With an easy-to-use interface, the Weather App provides a seamless experience for checking weather conditions.
 
-Experience the Weather App and stay informed about the weather in your favorite cities!
-## Features
-
-
-
+Experience the Weather App and stay informed about the weather in your favourite cities!
 ## Tech Stack
 
 - **Front-end Library:** React
