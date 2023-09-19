@@ -12,8 +12,6 @@ The **Weather App** is a simple and intuitive web application that allows users 
 
 - **Weather Icons:** Icons representing different weather conditions, such as clear skies, clouds, rain, drizzle, snow, and mist, help you visualize the weather at a glance.
 
-- **Temperature Conversion:** The temperature is displayed in both Celsius and Fahrenheit, allowing users to choose their preferred unit.
-
 - **Humidity and Wind Speed:** Get additional details about humidity and wind speed to plan your day accordingly.
 
 - **Fully Responsive:** The website is designed to be fully responsive, ensuring an optimal viewing experience on various devices.
