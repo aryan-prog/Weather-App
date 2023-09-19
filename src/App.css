@@ -62,7 +62,7 @@ body{
         flex-direction: column;
         align-items: center;
         justify-content: space-between;
-
+        
         &-icon{
             width: 170px;
             margin-top: 30px;
@@ -127,4 +127,9 @@ body{
             }
         }
     }
+}
+
+.weather-icon{
+    width: 230px;
+    background-blend-mode:color-dodge;
 }
