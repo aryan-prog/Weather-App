@@ -99,7 +99,7 @@ function App() {
               <h1 className="temp">
                 {data?.current?.temp_c}°c
               </h1>
-              <h2 className="city">{data?.location?.name}</h2>
+              <h2 className="city">{data?.location?.name},{data?.location?.country}</h2>
             </div>
 
             <div className="details">
